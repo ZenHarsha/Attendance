@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
             };
 
             const daysToBunkText = (daysAvailableToBunk, present, total) =>
-                `Bunk Mingachu mawa😂 <strong>${daysAvailableToBunk}</strong> more class.<br>Current Attendance: <strong>${present}/${total}</strong> -> <strong>${(
+                `Bunk Mingachu mawa😂 <strong>${daysAvailableToBunk}</strong>  class.<br>Current Attendance: <strong>${present}/${total}</strong> -> <strong>${(
                     (present / total) *
                     100
                 ).toFixed(2)}%</strong><br>Attendance Then: <strong>${present}/${
