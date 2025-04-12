@@ -1,37 +1,33 @@
-# 📋 Attendance Web App
+ ** Attendance Calculator Web Page **
 
-#Super Easy to use With Top notch UX
+A simple and effective web app to help students track their class attendance and plan their presence to meet the required percentage. 🎓📅
 
-A simple and clean web-based attendance tracker designed for classroom or personal use.  
-Live Demo: [zenharsha.github.io/Attendance](https://zenharsha.github.io/Attendance/)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+## 📌 Features
 
-# Features
-
-- ✅ Add student names easily
-- 🕒 Mark attendance: Present, Absent, Late
-- 💾 Data saved locally in the browser (no backend required)
-- ♻️ Reset attendance for the next day
-- 📱 Fully responsive design
+- 🧮 Real-time attendance percentage calculation
+- 🔢 Inputs for total classes & attended classes
+- 🎯 Suggestions on how many classes to attend or skip
+- 📱 Responsive design for all devices
+- 💡 Easy to use & beginner-friendly
 
 ---
 
-#  How to Use
+## 🌐 Live Demo
 
-1. Open the [live page](https://zenharsha.github.io/Attendance/).
-2. Enter student names into the input field.
-3. Click on the status to toggle between Present, Absent, or Late.
-4. Use the "Reset" button to clear attendance and start fresh.
+> _Add your live hosted link here (e.g., Vercel, Netlify, GitHub Pages)_
 
----
-
-# Built With
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+**🔗 [Click here to try it out!](https://zenharsha.github.io/Attendance/)**
 
 ---
 
+## 🖼️ Preview
+<img width="1706" alt="Screenshot 2025-04-12 at 10 47 41 AM" src="https://github.com/user-attachments/assets/00a59727-06c1-45ad-b3b1-88ccbd4fe69f" />
+
+
+
+---
+
+## 🚀 Getting Started
 
