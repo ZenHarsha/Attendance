@@ -6,11 +6,11 @@ A simple and effective web app to help students track their class attendance and
 
 ## 📌 Features
 
-- 🧮 Real-time attendance percentage calculation
-- 🔢 Inputs for total classes & attended classes
-- 🎯 Suggestions on how many classes to attend or skip
-- 📱 Responsive design for all devices
-- 💡 Easy to use & beginner-friendly
+-  Real-time attendance percentage calculation
+-  Inputs for total classes & attended classes
+-  Suggestions on how many classes to attend or skip
+-  Responsive design for all devices
+-  Easy to use & beginner-friendly
 
 ---
 
